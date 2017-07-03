@@ -10,4 +10,4 @@ Cost varies over a range of 200-300 with every trail due to the random number ge
 
 I found that the relative pollution potential of oxides of Nitrogen has a great effect on death rates followed by the size of the nonwhite population. Death rate increases with nitric oxide pollution.
 
-
+DeathRates_LinearReg.m is the file where I placed the code.
