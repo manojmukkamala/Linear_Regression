@@ -1,3 +1,3 @@
-# Linear_Regression
+# Regression
 
-A repository to hold my work on Linear Regression models.
+A repository to hold my work on Linear Regression & Logistic Regression (Classification) models.
